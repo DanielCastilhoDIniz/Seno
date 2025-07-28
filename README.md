@@ -73,6 +73,20 @@ Desenvolver uma plataforma educacional acessível, organizada e escalável, com 
 - Pipeline CI/CD com validações
 
 ---
+## 📁 Estrutura de Pastas
+
+
+### Descrição
+
+- `backend/`: Contém o backend da aplicação usando Django e Django REST Framework.
+- `frontend/`: Frontend em React com Tailwind.
+- `infra/`: Configurações de infraestrutura como Docker, nginx, CI/CD.
+- `docs/`: Documentos técnicos, backlog, decisões de arquitetura.
+- `scripts/`: Scripts de setup, build e manutenção.
+- `.env.example`: Template com variáveis de ambiente.
+
+
+---
 
 ## 🗃️ Organização do Código
 
@@ -101,4 +115,6 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 Desenvolvido por [Daniel Castilho Diniz](mailto:danielcastilhodiniz@gmail.com)
 GitHub: [github.com/DanielCastilhoDiniz](https://github.com/DanielCastilhoDiniz)
+
+
 
